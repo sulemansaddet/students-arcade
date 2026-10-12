@@ -1,19 +1,29 @@
-# Submission summary
+# Submission Summary
 
-## Overview
-- **Repository / Fork:** https://github.com/sulemansaddet/students-arcade
-- **Issue:** Add a beginner-plugin contribution guide example #63
-- **Branch:** feature/issue-63-beginner-plugin-example
-- **Pull Request:** https://github.com/AmalChUm/students-arcade/pull/105
+## Submission Metadata
+29. **Student Name:** Suleman Saddet
+30. **Selected Issue Title & URL:** Add a beginner-plugin contribution guide example (#63) - https://github.com/AmalChUm/students-arcade/issues/63
+31. **Difficulty Label & Task/Category Label:** `beginner`, `documentation` / `plugin-example`
+32. **Parent Repository URL:** https://github.com/AmalChUm/students-arcade
+33. **Fork URL:** https://github.com/sulemansaddet/students-arcade
+34. **Local Clone Folder Name:** `students-arcade-contribution`
+35. **Feature Branch URL:** https://github.com/sulemansaddet/students-arcade/tree/feature/issue-63-beginner-plugin-example
+36. **Commit URLs:** https://github.com/sulemansaddet/students-arcade/commits/feature/issue-63-beginner-plugin-example/
+37. **Verification Output:** Recorded in `evidence/02-verification.txt`
+38. **Pull Request URL:** https://github.com/AmalChUm/students-arcade/pull/[YOUR_PR_NUMBER]
+39. **Kanban Project URL:** https://github.com/users/sulemansaddet/projects/1
+40. **Screenshot of Issue on Board:** `evidence/screenshots/board-issue.png`
+41. **Screenshot Showing Issue Moving Through Statuses:** `evidence/screenshots/board-statuses.png`
 
-## Key Deliverables
-- `plugins/beginner_guide_example.py`: Minimal valid plugin implementation.
-- `contribution-plan.md`: Initial scope, criteria, and execution plan.
-- `ai-log.md`: Detailed log of AI interactions and decisions.
-- `evidence/`: Contains setup, verification, and self-review terminal logs.
+---
 
-## Project Board
-- Personal project board updated with Issue #63 moved to **Done**.
+## Required Documentation & Evidence Deliverables
+42. `contribution-plan.md` - Included in root directory
+43. `ai-log.md` - Included in root directory
+44. `evidence/01-setup.txt` - Included in evidence/
+45. `evidence/02-verification.txt` - Included in evidence/
+46. `evidence/03-self-review.txt` - Included in evidence/
+
 
 ## 47–57. Reflection Questions
 
