@@ -1,0 +1,20 @@
+Sulem@SSlaptop MINGW64 ~/Workspace/lab9-students-arcade-contribution/students-arcade (feature/issue-63-beginner-plugin-example)
+$ python main.py
+==========================================
+     WELCOME TO THE CLASSROOM ARCADE
+==========================================
+
+Suleman Saddet
+Magic 8-Ball
+101
+Running 'Magic 8-Ball' by Suleman Saddet:
+  ↳ 25
+
+Running 'Magic 8-Ball' by Amal Chaaben:
+  ↳ 🎱 Magic 8-Ball says: Ask again later.
+
+Running 'Beginner Guide Example' by Suleman Saddet:
+  ↳ Beginner Guide Example: Welcome to Students Arcade! Plugin executed successfully.
+
+Running 'Daily Tip Generator' by Gemini:
+  ↳ 💡 Tip of the Day: Read error messages carefully—most of the time, the exact file and line number are given.

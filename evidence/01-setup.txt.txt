@@ -1,0 +1,28 @@
+
+
+Parent repository (AmalChUm/students-arcade)[cite: 11]
+
+fork repository URL - https://github.com/sulemansaddet/students-arcade
+
+Local clone folder path - /Workspace/lab9-students-arcade-contribution/students-arcade 
+
+Current branch (main)
+
+
+Sulem@SSlaptop MINGW64 ~/Workspace/lab9-students-arcade-contribution/students-arcade (main)
+$ python main.py
+==========================================
+     WELCOME TO THE CLASSROOM ARCADE
+==========================================
+
+Suleman Saddet
+Magic 8-Ball
+24
+Running 'Magic 8-Ball' by Suleman Saddet:
+  ↳ 85
+
+Running 'Magic 8-Ball' by Amal Chaaben:
+  ↳ 🎱 Magic 8-Ball says: Yes, definitely!
+
+Running 'Daily Tip Generator' by Gemini:
+  ↳ 💡 Tip of the Day: Take regular breaks! Stepping away from the screen solves more bugs than staring at code.

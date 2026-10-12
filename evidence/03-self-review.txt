@@ -1,0 +1,41 @@
+==================================================
+STUDENTS ARCADE LAB - SELF-REVIEW CHECKLIST
+==================================================
+Author: Suleman Saddet
+Issue: #63 - Add a beginner-plugin contribution guide example
+Branch: feature/issue-63-beginner-plugin-example
+Date: 2026-10-12
+
+--------------------------------------------------
+CONTRACT & REQUIREMENT VERIFICATION
+--------------------------------------------------
+[X] 1. Unmodified Entrypoint:
+    - Verified via `git status` / `git diff` that `main.py` remains untouched.
+
+[X] 2. Plugin Location & Structure:
+    - File created at `plugins/beginner_guide_example.py`.
+    - Placed inside the `plugins/` directory for automatic dynamic import.
+
+[X] 3. Plugin Interface Contract:
+    - Declares module-level `AUTHOR` constant.
+    - Declares module-level `APP_NAME` constant.
+    - Implements entrypoint `run()` callable returning formatted string output.
+
+[X] 4. Dependencies:
+    - Relies solely on Python standard library modules with zero external third-party dependencies.
+
+[X] 5. Documentation Deliverables Present:
+    - `contribution-plan.md` (root directory)
+    - `ai-log.md` (root directory)
+    - `submission-summary.md` (root directory)
+    - `evidence/01-setup.txt` (initial execution log)
+    - `evidence/02-verification.txt` (plugin discovery log)
+    - `evidence/03-self-review.txt` (this checklist log)
+
+[X] 6. Git & GitHub Project Board:
+    - Branch pushed to fork (`sulemansaddet/students-arcade`).
+    - Pull Request opened against base repository (`AmalChUm/students-arcade:main`) linking `Closes #63`.
+    - Personal Project Board set to Public and linked to repository; Issue #63 moved to "Done".
+
+STATUS: READY FOR SUBMISSION
+==================================================
