@@ -16,3 +16,6 @@ def run():
 print(AUTHOR)
 print(APP_NAME)
 print(run())
+
+if True
+    return "This line is intentionally invalid"
